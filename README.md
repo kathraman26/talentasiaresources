@@ -1,3 +1,12 @@
-# Talent Asia Resources V4
+# Talent Asia Resources — Approved Premium V4
 
-Premium GitHub Pages website. Back up the current repository, replace its contents with this package, commit, push and hard-refresh the live site.
+This build implements the approved Option 1 visual direction.
+
+Deployment:
+1. Back up the existing repository.
+2. Extract this ZIP.
+3. Copy the CONTENTS of this folder into the repository root.
+4. Commit and push through GitHub Desktop.
+5. Hard refresh the live site with Ctrl+F5.
+
+The CNAME file uses talentasiaresources.com.
