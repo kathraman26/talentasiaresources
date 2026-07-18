@@ -1,12 +1,10 @@
-# Talent Asia Resources — Approved Premium V4
+# Talent Asia Resources — Final Premium V4
 
-This build implements the approved Option 1 visual direction.
+- New navy-and-gold logo
+- Larger header branding
+- Smaller hero headline for better browser fit
+- Updated headline: Building Exceptional Teams Across Asia-Pacific
+- Removed the incorrect 500+ placements statistic
+- Added Executive Search — Leadership & Specialist Hiring
 
-Deployment:
-1. Back up the existing repository.
-2. Extract this ZIP.
-3. Copy the CONTENTS of this folder into the repository root.
-4. Commit and push through GitHub Desktop.
-5. Hard refresh the live site with Ctrl+F5.
-
-The CNAME file uses talentasiaresources.com.
+Copy the contents into the repository root, commit, push, and hard refresh with Ctrl+F5.
